@@ -1,0 +1,15 @@
+name: zone_js
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+#author: john <email@example.com>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  js: '>=0.6.0 <0.7.0'
+  func: '>=0.1.0 <1.0.0'
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
