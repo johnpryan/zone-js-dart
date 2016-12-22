@@ -1,8 +1,8 @@
 name: zone_js
-description: A starting point for Dart libraries or applications.
+description: A package:js facade for zone.js
 version: 0.0.1
-#author: john <email@example.com>
-#homepage: https://www.example.com
+author: John Ryan <john.p.ryan4@gmail.com>
+homepage: https://github.com/johnpryan/zone-js-dart
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
